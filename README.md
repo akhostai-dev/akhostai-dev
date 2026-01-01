@@ -1,10 +1,7 @@
 Hi there, I'm Asif! 👋
 
-![Banner Image](your_banner_image_url_here)
+I’m a passionate student focused on software development. I’m currently learning to become a full stack developer, actively studying core programming languages and consistently applying my skills through real world projects. I love tackling complex problems and collaborating with diverse teams to create innovative solutions.
 
-## About Me 🚀
-
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
