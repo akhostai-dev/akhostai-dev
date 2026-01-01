@@ -1,13 +1,13 @@
-Hi there, I'm Asif! 👋
+<h1>Hi there, I'm Asif! 👋</h1>
 
 I’m a passionate student focused on software development. I’m currently learning to become a full stack developer, actively studying core programming languages and consistently applying my skills through real world projects. I love tackling complex problems and collaborating with diverse teams to create innovative solutions.
 
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: React
+- 🔭 Working on: Full Stack Project
+- 🤯 Languages: Python, SQL, Javascript, html/css
+- 📫 How to reach me: linkedin.com/in/akhostai-dev
+- ⚡ Fun fact: I love solving puzzles because they help me think more critically.
 
 ## My Skills 🧠
 
