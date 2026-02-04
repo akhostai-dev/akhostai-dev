@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Asif! 👋</h1> <h3>Site: https://akhostai-dev.github.io</h3>
+<h1>Hi there, I'm Asif! 👋</h1> 
 
 I’m a passionate student focused on software development. I’m currently learning to become a full stack developer, actively studying core programming languages and consistently applying my skills through real world projects. I love tackling complex problems and collaborating with diverse teams to create innovative solutions.
 
