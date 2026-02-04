@@ -19,10 +19,6 @@ I’m a passionate student focused on software development. I’m currently lear
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-
-![Asif](https://akhostai-dev.github.io)
-
-
 ## Projects 💻
 
 ### API
