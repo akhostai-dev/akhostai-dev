@@ -1,12 +1,4 @@
-<h1>Hi there, I'm Asif! 👋</h1>  [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-
-[![aisf](https://img.shields.io/badge/Aiden-Portfolio-blue?style=flat-square)](https://mywebsite.com)
-
-
-
-![Asif](https://akhostai-dev.github.io)
-
+<h1>Hi there, I'm Asif! 👋</h1>  [![Asif](https://img.shields.io/badge/Live-Demo-green?style=flat-square)](https://akhostai-dev.github.io/project-name/)
 
 I’m a passionate student focused on software development. I’m currently learning to become a full stack developer, actively studying core programming languages and consistently applying my skills through real world projects. I love tackling complex problems and collaborating with diverse teams to create innovative solutions.
 
