@@ -1,17 +1,10 @@
 <h1>Hi there, I'm Asif! 👋</h1>  [![Asif](https://img.shields.io/badge/Live-Demo-green?style=flat-square)](https://akhostai-dev.github.io/project-name/)
 
-.project {
-  text-decoration: none;
-  color: white;
-  display: inline-block;
-  padding: 15px;
-  border-radius: 10px;
-  transition: transform 0.2s ease;
-}
 
-.project:hover {
-  transform: scale(1.05);
-}
+
+<a href="https://yourusername.github.io/project-name/" target="_blank">
+  <img src="project.png" class="project-img">
+</a>
 
 
 
