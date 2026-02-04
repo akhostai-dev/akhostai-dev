@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Asif! 👋</h1> 
-![I'm Asif!](https://akhostai-dev.github.io)
+![Asif](https://akhostai-dev.github.io)
 
 
 
