@@ -1,5 +1,22 @@
 <h1>Hi there, I'm Asif! 👋</h1>  [![Asif](https://img.shields.io/badge/Live-Demo-green?style=flat-square)](https://akhostai-dev.github.io/project-name/)
 
+.project {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  padding: 15px;
+  border-radius: 10px;
+  transition: transform 0.2s ease;
+}
+
+.project:hover {
+  transform: scale(1.05);
+}
+
+
+
+
+
 I’m a passionate student focused on software development. I’m currently learning to become a full stack developer, actively studying core programming languages and consistently applying my skills through real world projects. I love tackling complex problems and collaborating with diverse teams to create innovative solutions.
 
 
