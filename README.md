@@ -11,6 +11,7 @@ I’m a passionate student focused on software development. I’m currently lear
 - 🤯 Languages: Python, SQL, Javascript, html/css
 - 📫 How to reach me: linkedin.com/in/akhostai-dev or [here](akhostai.dev@gmail.com)
 - <a href="akhostai.dev@gmail.com" target="_blank"></a>[here](akhostai.dev@gmail.com)
+-     <img src="project.png" class="project-img">
 - ⚡ Fun fact: I love solving puzzles because they help me think more critically.
 
 ## My Skills 🧠
