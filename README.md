@@ -9,7 +9,7 @@ I’m a passionate student focused on software development. I’m currently lear
 - 🌱 Currently learning: Core Languages and applying theme by projects and real world problems. 
 - 🔭 Working on: Full Stack Project Using, html/css, JavaScript, Oracle Sql, and Python. This project will include 59 types of calculator, but my main point is to apply and worked on what I have leanred through. 
 - 🤯 Languages: Python, SQL, Javascript, html/css
-- 📫 How to reach me: linkedin.com/in/akhostai-dev or [here at](akhostai.dev@gmail.com)
+- 📫 How to reach me: linkedin.com/in/akhostai-dev or [here at akhostai.dev@gmail.com](akhostai.dev@gmail.com)
 - ⚡ Fun fact: I love solving puzzles because they help me think more critically.
 
 ## My Skills 🧠
