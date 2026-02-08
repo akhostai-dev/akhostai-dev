@@ -4,6 +4,10 @@
   <img src="project.png" class="project-img">
 </a>
 
+<a href="http://akhostai-dev.github.io" target="_blank">
+  </img src="https://img.pikbest.com/png-images/20241022/stealth-masked-hacker-gaming-logo-for-gamers_10991543.png!bw700" class="project-img">
+</a>
+
 I’m a passionate student focused on software development. I’m currently learning to become a full stack developer, actively studying core programming languages and consistently applying my skills through real world projects. I love tackling complex problems and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: React
