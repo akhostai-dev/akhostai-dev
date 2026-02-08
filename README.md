@@ -6,7 +6,7 @@
 
 I’m a passionate student focused on software development. I’m currently learning to become a full stack developer, actively studying core programming languages and consistently applying my skills through real world projects. I love tackling complex problems and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: React
+- 🌱 Currently learning: Core Languages and applying theme by projects and real world problems. 
 - 🔭 Working on: Full Stack Project
 - 🤯 Languages: Python, SQL, Javascript, html/css
 - 📫 How to reach me: linkedin.com/in/akhostai-dev
