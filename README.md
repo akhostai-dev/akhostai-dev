@@ -4,7 +4,6 @@
   <img src="project.png" class="project-img">
 </a>
 
-
 <a href="http://akhostai-dev.github.io" target="_blank">
   </img src="https://img.pikbest.com/png-images/20241022/stealth-masked-hacker-gaming-logo-for-gamers_10991543.png!bw700" class="[project-img](https://img.pikbest.com/png-images/20241022/stealth-masked-hacker-gaming-logo-for-gamers_10991543.png!bw700)">
 </a>
