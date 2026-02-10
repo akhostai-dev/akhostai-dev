@@ -12,7 +12,7 @@ I’m a passionate student focused on software development. I’m currently lear
 - 📫 How to reach me: linkedin.com/in/akhostai-dev or here at [akhostai.dev@gmail.com](akhostai.dev@gmail.com)
 - ⚡ Fun fact: I love solving puzzles because they help me think more critically.
 
-## My Skills 🧠
+## My Skills 🧠⌘
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
