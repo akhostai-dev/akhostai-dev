@@ -27,7 +27,7 @@ I’m a passionate student focused on software development. I’m currently lear
 The project is built with python and sql, and this project will demonstrates the ability of checking error in code. 
 You can check out the repository [here](https://github.com/akhostai-dev/construction/blob/main/construction.html).
 
-## Get in Touch 📬📧
+## Get in Touch 📧
 - **[WebSite]**(https://akhostai-dev.github.io)
 - **[LinkedIn]**(www.linkedin.com/in/akhostai-dev)
 - **[Twitter]**(https://x.com/akhostai_dev)
