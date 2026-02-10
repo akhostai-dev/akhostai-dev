@@ -22,7 +22,7 @@ I’m a passionate student focused on software development. I’m currently lear
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## Projects📽️
+## Projects ⌅
 ### API
 The project is built with python and sql, and this project will demonstrates the ability of checking error in code. 
 You can check out the repository [here](https://github.com/akhostai-dev/construction/blob/main/construction.html).
