@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Asif! 😎</h1>
 
-<a href="http://akhostai-dev.github.io" target="_blank">
+<a href="http://akhostai-dev.github.io" target="_blank"> 
   <img src="project.png" class="project-img">
 </a>
 
