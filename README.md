@@ -1,11 +1,5 @@
 <h1> <b>Hi there, I'm Asif! 😎</b></h1>
 
-‹IDOCTYPE html>
-<html>
-<body> <div style-"height: 200px; width: 250px; border-style: solid;"> <p style="font-size: 30px;">Welcome to DataFlair</p> <button type="button"> Click Here</button>
-</div» </body>
-</html>
-
  
 <a href="http://akhostai-dev.github.io" target="_blank"> 
   <img src="project.png" class="project-img">
