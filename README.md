@@ -33,7 +33,6 @@ You can check out the repository [here](https://github.com/akhostai-dev/construc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhostai-dev&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhostai-dev&theme=tokyonight" height="160"/>
 </p>
 
