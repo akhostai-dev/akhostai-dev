@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer | Computer Science Student | Finding solutions for the PROBLEM!</h3>
 
 <a href="http://akhostai-dev.github.io" target="_blank"> 
-  <img src="project.png" class="project-img">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+code.;Clean+Code+%7C+Databases+%7C+Algorithms;Oracle+SQL+%7C+Backend+Development;Always+Learning+%F0%9F%9A%80" />
