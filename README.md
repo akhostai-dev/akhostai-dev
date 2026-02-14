@@ -30,24 +30,21 @@ The project is built with python and sql, and this project will demonstrates the
 You can check out the repository [here](https://github.com/akhostai-dev/construction/blob/main/construction.html).
 
 
-
-## 📊 GitHub Stats (Live)
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- TOTAL CONTRIBUTIONS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akhostai-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="160"/>
-
-  <!-- CURRENT STREAK + LONGEST STREAK -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akhostai-dev&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhostai-dev&theme=tokyonight" height="160"/>
 </p>
 
+---
 
 <!-- ===================== ACTIVITY ANIMATION ===================== -->
-## 🟩 Contribution Activity (Snake)
-
+## 🟩 Contribution Activity
 <p align="center">
-  <img src="https://github.com/akhostai-dev/akhostai-dev/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
+
 
 
 
