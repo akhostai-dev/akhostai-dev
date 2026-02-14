@@ -29,7 +29,35 @@ I’m a passionate student focused on software development. I’m currently lear
 The project is built with python and sql, and this project will demonstrates the ability of checking error in code. 
 You can check out the repository [here](https://github.com/akhostai-dev/construction/blob/main/construction.html).
 
+
+
+## 📊 GitHub Stats (Live)
+
+<p align="center">
+  <!-- TOTAL CONTRIBUTIONS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akhostai-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="160"/>
+
+  <!-- CURRENT STREAK + LONGEST STREAK -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhostai-dev&theme=tokyonight" height="160"/>
+</p>
+
+
+<!-- ===================== ACTIVITY ANIMATION ===================== -->
+## 🟩 Contribution Activity (Snake)
+
+<p align="center">
+  <img src="https://github.com/akhostai-dev/akhostai-dev/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+
+
+
 ## Get in Touch 📧
 - **[WebSite]**(https://akhostai-dev.github.io)
 - **[LinkedIn]**(www.linkedin.com/in/akhostai-dev)
 - **[Twitter]**(https://x.com/akhostai_dev)
+
+
+
+
+
