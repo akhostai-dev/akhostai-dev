@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+code.;Clean+Code+%7C+Databases+%7C+Algorithms;Oracle+SQL+%7C+Backend+Development;Always+Learning+%F0%9F%9A%80" />
 </p>
 
-
 I’m a passionate student focused on software development. I’m currently learning to become a full stack developer, actively studying core programming languages and consistently applying my skills through real world projects. I love tackling complex problems and collaborating with diverse teams to create innovative solutions.
  
 - 🌱 Currently learning: Core Languages and applying theme by projects and real world problems. 
@@ -29,24 +28,17 @@ I’m a passionate student focused on software development. I’m currently lear
 The project is built with python and sql, and this project will demonstrates the ability of checking error in code. 
 You can check out the repository [here](https://github.com/akhostai-dev/construction/blob/main/construction.html).
 
-
 ## My Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhostai-dev&theme=tokyonight" height="160"/>
 </p>
 
----
-
 <!-- ===================== ACTIVITY ANIMATION ===================== -->
 ## My Activity
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
-
-
-
-
 
 ## Get in Touch 📧
 - **[WebSite]**(https://akhostai-dev.github.io)
