@@ -3,10 +3,16 @@
 
 VERSION_FILE="VERSION"
 
-if [ -f "$VERSION_FILE" ]; then
-    VERSION=$(cat "$VERSION_FILE")
-    echo "Current Version: $VERSION"
-else
+if [ ! -f "$VERSION_FILE" ]; then
     echo "Error: VERSION file not found"
     exit 1
 fi
+
+VERSION=$(cat "$VERSION_FILE" | tr -d '[:space:]')
+
+if [ -z "$VERSION" ]; then
+    echo "Error: VERSION file is empty"
+    exit 1
+fi
+
+echo "Current Version: $VERSION"
