@@ -2,6 +2,11 @@
 <h3 align="center">Software Engineer | Computer Science Student | Finding solutions for the PROBLEM!</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0" />
+  <img src="https://img.shields.io/badge/status-active-success.svg" alt="Status Active" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+code.;Clean+Code+%7C+Databases+%7C+Algorithms;Oracle+SQL+%7C+Backend+Development;Always+Learning+%F0%9F%9A%80" />
 </p>
 
@@ -52,6 +57,17 @@ You can check out the repository [here](https://github.com/akhostai-dev/construc
 - **[WebSite]**(https://akhostai-dev.github.io)
 - **[LinkedIn]**(www.linkedin.com/in/akhostai-dev)
 - **[Twitter]**(https://x.com/akhostai_dev)
+
+---
+
+## Version Information 📌
+
+**Current Version:** 1.0.0
+
+To check the current version:
+- View the version badge at the top of this README
+- Check the [VERSION](VERSION) file in this repository
+- View the [CHANGELOG.md](CHANGELOG.md) for version history and changes
 
 
 
