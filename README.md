@@ -67,6 +67,7 @@ You can check out the repository [here](https://github.com/akhostai-dev/construc
 To check the current version:
 - View the version badge at the top of this README
 - Check the [VERSION](VERSION) file in this repository
+- Run the script: `bash check-version.sh` (from the repository root)
 - View the [CHANGELOG.md](CHANGELOG.md) for version history and changes
 
 
