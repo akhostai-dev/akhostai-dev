@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Asif</h1>
-<h3 align="center">FullStack Software Engineer | Computer Science Student | Problem? Finding solutions for it right away!</h3>
+<h3 align="center">FullStack Software Engineer | Computer Science Student | Funding solutions for Problem</h3>  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+code.;Clean+Code+%7C+Databases+%7C+Algorithms;Oracle+SQL+%7C+Backend+Development;Always+Learning+%F0%9F%9A%80" />
