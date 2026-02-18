@@ -1,6 +1,8 @@
 <h1 align="center">🙋🏻‍♂️ Hi there, I'm Asif</h1>
 <h3 align="center">FullStack Dev | Computer Science Student | Finding solutions for Problem!</h3>  
-    
+
+ <!--I will update this with a nice font, nice color, and nice idea of displaying the perfect idea of display. 
+ -->   
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+code.;Clean+Code+%7C+Databases+%7C+Algorithms;Oracle+SQL+%7C+Backend+Development;Always+Learning+%F0%9F%9A%80" />
 </p> 
