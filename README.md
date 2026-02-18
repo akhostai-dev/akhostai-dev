@@ -33,7 +33,7 @@ You can check out the repository [here](https://github.com/akhostai-dev/construc
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhostai-dev&theme=tokyonight" height="160"/>
 </p>
 
-## My Activity
+## My Activity 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
