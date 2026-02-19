@@ -1,3 +1,24 @@
+I turn ideas into code.  
+Clean Code | Databases | Algorithms  
+Oracle SQL | Python | FullStack  
+Always learning 🚀  
+
+<p align="left"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+code.;Clean+Code+%7C+Databases+%7C+Algorithms;Oracle+SQL+%7C+Python+%7C+FullStack;Always+learning+🚀" />
+</p>
+
+---
+
+I turn code into idea  
+Calm Mind | Analysis | Structures  
+Details | Deep | Grasping  
+Track Always 🪃  
+
+<p align="left"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=700&lines=I+turn+code+into+idea.;Calm+Mind+%7C+Analysis+%7C+Structures;Details+%7C+Deep+%7C+Grasping;Track+Always+🪃" />
+</p>
+
+
 
 
 
