@@ -1,3 +1,23 @@
+<!-- ===================== HERO ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&center=true&vCenter=true&width=900&lines=I+turn+ideas+into+code.;Clean+Code+%7C+Databases+%7C+Algorithms;Oracle+SQL+%7C+Python+%7C+Full+Stack;Always+Learning+🚀" />
+</p>
+
+---
+
+## 👋 About Me
+
+```text
+I turn ideas into code.
+Clean Code | Databases | Algorithms
+Oracle SQL | Python | Full Stack
+Always learning 🚀
+
+
+
+
+
+
 <h1 align="center">🙋🏻‍♂️ Hi there, I'm Asif</h1>
 <h3 align="center">FullStack Dev | Computer Science Student | Finding solutions for Problem!</h3>   
 
