@@ -1,5 +1,5 @@
 <h1 align="center">🙋🏻‍♂️ Hi there, I'm Asif</h1>
-<h3 align="center">FullStack Dev | Computer Science Student | Finding solutions for Problem!</h3>  
+<h3 align="center">FullStack Dev | Computer Science Student | Finding solutions for Problem!</h3>   
 
  <!--I will update this with a nice font, nice color, and nice idea of displaying the perfect idea of display. 
 
