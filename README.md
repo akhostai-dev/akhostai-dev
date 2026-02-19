@@ -1,14 +1,3 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+code.;Clean+Code+%7C+Databases+%7C+Algorithms;Python+%26+SQL+%7C+FullStack+%7C+Always+learning+🚀" />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+code+into+ideas.;Calm+Mind+%7C+Analysis+%7C+Structures;Deep+Grasp+%7C+Tracking+Detail+%7C+Always+evolved+🪃" />
-</p>
-
-
-
-
 <h1 align="center">🙋🏻‍♂️ Hi there, I'm Asif</h1>
 <h3 align="center">FullStack Dev | Computer Science Student | Finding solutions for Problem!</h3>   
 
@@ -28,6 +17,16 @@
 <p align="left"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+Love+Coding+;Clean+Calm+%7C+Environement+%7C+;Oracle+SQL+%7C+Backend+Development;Always+Learning+%F0%9F%9A%80" />
 </p> 
+
+
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+code.;Clean+Code+%7C+Databases+%7C+Algorithms;Python+%26+SQL+%7C+FullStack+%7C+Always+learning+🚀" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+code+into+ideas.;Calm+Mind+%7C+Analysis+%7C+Structures;Deep+Grasp+%7C+Tracking+Detail+%7C+Always+evolved+🪃" />
+</p>
 
 
 
