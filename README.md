@@ -1,5 +1,5 @@
 I turn ideas into code.  
-Clean Code | Databases | Algorithms  
+Clean Code | Databases | Algorithms   
 Oracle SQL | Python | FullStack  
 Always learning 🚀  
 
