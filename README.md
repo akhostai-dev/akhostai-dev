@@ -1,27 +1,3 @@
-## 👋 Hi, I’m Aiden
-
-### I turn ideas into code.
-**Clean Code | Databases | Algorithms**  
-**Oracle SQL | Python | Full-Stack**  
-Always learning 🚀
-
----
-
-### I turn code into ideas.
-**Calm Mind | Analysis | Structures**  
-**Details | Deep | Grasping**  
-Track always 🪃
-
----
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+code.;Clean+Code+%7C+Databases+%7C+Algorithms;Oracle+SQL+%7C+Python+%7C+FullStack;Always+Learning+%F0%9F%9A%80" />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+code+into+ideas.;Calm+Mind+%7C+Analysis+%7C+Structures;Details+%7C+Deep+%7C+Grasping;Track+Always+%F0%9F%AA%83" />
-</p>
-
 
 
 
