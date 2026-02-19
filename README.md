@@ -20,13 +20,19 @@
 
 
 
+
+
+
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+code.;Clean+Code+%7C+Databases+%7C+Algorithms;Python+%26+SQL+%7C+FullStack+%7C+Always+learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com+|+Databases+|+Algorithms;Python+%26+SQL+|+FullStack+|+Always+learning+🚀" />
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=I+turn+code+into+ideas.;Calm+Mind+%7C+Analysis+%7C+Structures;Deep+Grasp+%7C+Tracking+Detail+%7C+Always+evolved+🪃" />
+  <img src="https://readme-typing-svg.demolab.com+|+Analysis+|+Structures;Deep+Grasp+|+Tracking+Detail+|+Always+evolved+🪃" />
 </p>
+
+
+
 
 
 
