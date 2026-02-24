@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Dev | Computer Science Student | Finding solutions for Problem!</h3>   
  
  <!-- need to work on it something not sure? 
- NEED TO WORK ONE AND JUST FINISH IT FASTER NOT TO WAIT ANYMORE NOT SURE WHAT TO TELL YOU!!!
+ NEED TO WORK ONE AND JUST FINISH IT FASTER NOT TO WAIT ANYMORE NOT SURE WHAT TO TELL YOU!!! 
  I will update this with a nice font, nice color, and nice idea of displaying the perfect idea of display.  
  
 <p align="left"> 
