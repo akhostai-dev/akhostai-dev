@@ -13,7 +13,7 @@
 <p align="left">  
   <img src="https://readme-typing-svg.demolab.com+|+Databases+|+Algorithms;Python+%26+SQL+|+FullStack+|+Always+learning+🚀" />
 </p>
-
+ 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com+|+Analysis+|+Structures;Deep+Grasp+|+Tracking+Detail+|+Always+evolved+🪃" /> 
 </p>
