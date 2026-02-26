@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com+|+Analysis+|+Structures;Deep+Grasp+|+Tracking+Detail+|+Always+evolved+🪃" />
+  <img src="https://readme-typing-svg.demolab.com+|+Analysis+|+Structures;Deep+Grasp+|+Tracking+Detail+|+Always+evolved+🪃" /> 
 </p>
  --> 
 
