@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Dev | Computer Science Student | Finding solutions for Problem!</h3>    
   
  <!-- Everynight feel like everything is in hand but see it after there is nothing left. 
- One day but i am not sure when will that day come? 
+ One day but i am not sure when will that day come?  
  One day i will change the holy craft font too. 
  need to work on it something not sure? 
  NEED TO WORK ONE AND JUST FINISH IT FASTER NOT TO WAIT ANYMORE NOT SURE WHAT TO TELL YOU!!! 
