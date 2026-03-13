@@ -1,7 +1,8 @@
 <h1 align="center">🙋🏻‍♂️ Hi there, I'm Asif</h1>    
 <h3 align="center">FullStack Dev | Computer Science Student | Finding solutions for Problem!</h3>       
      
- <!-- Fianly it is march 11th
+ <!-- Its march 12th and still feels a dominator?
+ Fianly it is march 11th
  
  Its March 10th but did have done some parts of it. 
  Its march 9th fells tommrow is the winner and no gym
