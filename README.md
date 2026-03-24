@@ -1,30 +1,7 @@
 <h1 align="center">🙋🏻‍♂️ Hi there, I'm Asif</h1>    
 <h3 align="center">FullStack Dev | Computer Science Student | Finding solutions for Problem!</h3>       
      
- <!--  Its march 14th nice to see movement if could more happen will work perfectly. 
-   
- Its march 13th hoep is awae person now. 
- Its march 12th and still feels a dominator?
- Fianly it is march 11th  
-     
- Its March 10th but did have done some parts of it. 
- Its march 9th fells tommrow is the winner and no gym  
- its march 8th and feels winnder is tommorow hope so...  
- Its march 7th  
- Its March 6th, I am going to add the page loader now   
-  
- Its March 5th, and HYou should done alot.         
-    
-         
-    
- Its March 4th and still waiting for it  
- Its March 3rd and nothing have done yet why is that? 
- March third I will use git to clean the repos 
- Its March 2nd and getting prolonged i thing or is in't?   
- Its March 1st when will i start it over?  
- Its Feburary 28th the last night of Feberuary. and I am not sure what to say becasue every night fells I am winner But happy early march on you. 
-   
-  
+ <!--  
       
  Everynight feel like everything is in hand but see it after there is nothing left. skar fase 
   
