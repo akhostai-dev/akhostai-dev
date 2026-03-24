@@ -2,9 +2,6 @@
 <h3 align="center">FullStack Dev | Computer Science Student | Finding solutions for Problem!</h3>       
      
  <!--  
-      
- Everynight feel like everything is in hand but see it after there is nothing left. skar fase 
-  
     
  
  One day but i am not sure when will that day come?    
